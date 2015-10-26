@@ -1,0 +1,4 @@
+export const SOME_ACTIOIN = 'SOME_ACTIOIN';
+export const HOGE_ACTIOIN = 'HOGE_ACTIOIN';
+export const OTHER_ACTIOIN = 'OTHER_ACTIOIN';
+export const FUGA_ACTIOIN = 'FUGA_ACTIOIN';
